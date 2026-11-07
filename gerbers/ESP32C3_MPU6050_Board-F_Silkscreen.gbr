@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.2*%
-%TF.CreationDate,2026-11-07T11:32:01+05:30*%
+%TF.CreationDate,2026-11-07T12:27:28+05:30*%
 %TF.ProjectId,ESP32C3_MPU6050_Board,45535033-3243-4335-9f4d-505536303530,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Legend,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.2) date 2026-11-07 11:32:01*
+G04 Created by KiCad (PCBNEW 9.0.2) date 2026-11-07 12:27:28*
 %MOMM*%
 %LPD*%
 G01*
