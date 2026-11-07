@@ -11,7 +11,7 @@ A small custom board built around the ESP32-S3-MINI-1 module and an MPU-6050 6-a
 - Power from USB Type-C (5 V) or an external 3.7 V LiPo battery
 - MPU-6050 accelerometer and gyroscope on I2C
 - USB ESD protection (USBLC6-2SC6)
-- 2-layer PCB, about [W x H] mm, with parts on both sides
+- 2-layer PCB, about [22 x 30 ] mm, with parts on both sides
 
 ## Schematic
 
